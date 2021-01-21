@@ -1,6 +1,8 @@
 # update-vscode-cpp
 
-Updates VSCode CPP symbols from the local .config file
+Updates VSCode CPP symbols from the local .config file.
+
+Helpful for loading the current configuration for the Linux kernel into VSCode so that all symbols are automatically activated.
 
 ## Usage
 
