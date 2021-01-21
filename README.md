@@ -1,2 +1,2 @@
 # update-vscode-cpp
-Updates VSCode CPP Symbols from the local .config file
+Updates VSCode CPP symbols from the local .config file
